@@ -89,8 +89,3 @@ Business analytics practice
 Demonstrating Power BI proficiency
 
 Understanding e-commerce performance metrics
-
-🧑‍🎨 Author
-
-Shagufta Tabasoom
-Data Enthusiast | Power BI Learner | CSE (Graphics & Gaming)
